@@ -1,0 +1,27 @@
+{
+  "name": "cpsdo",
+  "version": "0.1.0",
+  "description": "simple, strict or lazy continuation passing style, for asynchronous, or monadic operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymac-2/cpsDo.git"
+  },
+  "keywords": [
+    "cps",
+    "continuation",
+    "passing",
+    "style",
+    "monad"
+  ],
+  "author": "Andrew Pritchard",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/andymac-2/cpsDo/issues"
+  },
+  "homepage": "https://github.com/andymac-2/cpsDo#readme",
+  "devDependencies": {}
+}
